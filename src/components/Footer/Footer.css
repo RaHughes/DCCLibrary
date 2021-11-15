@@ -1,6 +1,8 @@
 .footer {
     text-align: center;
-    background-color: grey;
+    margin-top: 2em;
+    background-color: lightblue;
+    box-shadow: 0 50vh 0 50vh lightblue;
     width: 100%;
     height: 100px;
 }
